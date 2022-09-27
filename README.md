@@ -3,7 +3,7 @@ Prototypes of Temporally Activated Patterns
 
 
 
-##Interpreting internal activation patterns in deep temporal neural networks by finding prototypes 
+## Interpreting internal activation patterns in deep temporal neural networks by finding prototypes 
 Sohee Cho*, Wonjoon Chang*, Ginkyeng Lee, Jaesik Choi
 accepted at KDD 2021
 
