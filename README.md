@@ -1,6 +1,7 @@
 # Prototypes of Temporally Activated Patterns (PTAPs)
 
 Interpreting Internal Activation Patterns in Deep Temporal Neural Networks by Finding Prototypes (KDD 2021)
+
 Sohee Cho*, Wonjoon Chang*, Ginkyeng Lee, Jaesik Choi
 
 paper link: https://dl.acm.org/doi/abs/10.1145/3447548.3467346
@@ -14,6 +15,7 @@ We will provide a tutorial code for our framework soon.
 Our approach is mainly inspired by the following work, which suggests the greedy algorithm to find prototypes of high-dimensional data.
 
 Examples are not enough, learn to criticize! Criticism for Interpretability (NIPS 2016)
+
 paper link: https://proceedings.neurips.cc/paper/2016/hash/5680522b8e2bb01943234bce7bf84534-Abstract.html
 
 Tutorial code: https://github.com/onejoon/PTAP/blob/main/Prototype-Selection-tutorial.ipynb
