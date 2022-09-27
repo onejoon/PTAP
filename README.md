@@ -7,7 +7,7 @@ Sohee Cho*, Wonjoon Chang*, Ginkyeng Lee, Jaesik Choi
 paper link: https://dl.acm.org/doi/abs/10.1145/3447548.3467346
 
 ## Summary
-we propose a new framework with which to visualize temporal representations learned in deep neural networks without hand-crafted segmentation labels. Given input data, our framework extracts highly activated temporal regions that contribute to activating internal nodes and characterizes such regions by prototype selection method based on Maximum Mean Discrepancy (MMD). Representative temporal patterns referred to here as Prototypes of Temporally Activated Patterns (PTAP) provide core examples of subsequences in the sequential data for interpretability.
+We propose a new framework with which to visualize temporal representations learned in deep neural networks without hand-crafted segmentation labels. Given input data, our framework extracts highly activated temporal regions that contribute to activating internal nodes and characterizes such regions by prototype selection method based on Maximum Mean Discrepancy (MMD). Representative temporal patterns referred to here as Prototypes of Temporally Activated Patterns (PTAP) provide core examples of subsequences in the sequential data for interpretability.
 
 We will provide a tutorial code for our framework soon.
 
